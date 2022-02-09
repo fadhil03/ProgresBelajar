@@ -1,1 +1,1 @@
-example for training branch  exampling conflict
+example for training branch for error pull request marge
